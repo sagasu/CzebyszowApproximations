@@ -1,0 +1,2 @@
+run in python shell:
+exec(open("sqrt1.py").read(), globals())
