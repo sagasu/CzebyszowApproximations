@@ -6,6 +6,7 @@ Czebyszow (in English people translate Pafnutij last name to Chebyshev, but I wi
 
 ![Czebyszow fitting cos plot](https://raw.githubusercontent.com/sagasu/czebyszow-approximations/master/fitting.png)
 
+# sqrt1 script
 run in python shell:
 ```
 exec(open("sqrt1.py").read(), globals())
