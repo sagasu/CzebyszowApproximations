@@ -1,6 +1,0 @@
-#Czebyszow (in English people translate his last name to Chebyshev, but I will use Polish version, because to me it is much closer to original version, and I can't stand butchering last names)
-
-![Czebyszow Approx plot](https://raw.githubusercontent.com/sagasu/Czebyszowapproximations/main/czebyszow.png)
-
-run in python shell:
-exec(open("sqrt1.py").read(), globals())
