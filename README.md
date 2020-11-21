@@ -4,6 +4,8 @@ Czebyszow (in English people translate Pafnutij last name to Chebyshev, but I wi
 # Czebyszow plot
 ![Czebyszow Approx plot](https://raw.githubusercontent.com/sagasu/czebyszow-approximations/master/czebyszow.png)
 
+![Czebyszow fitting cos plot](https://raw.githubusercontent.com/sagasu/czebyszow-approximations/master/fitting.png)
+
 run in python shell:
 ```
 exec(open("sqrt1.py").read(), globals())
